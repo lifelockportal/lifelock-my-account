@@ -2,7 +2,15 @@
 Lifelock Login Account | Lifelock Login My Account
 =====================================================
 
-LifeLock is an identity protection service that helps users monitor their personal information, receive alerts about potential identity-related risks, and manage their membership through an online account. Many members use more than one device, such as a desktop computer, laptop, tablet, or smartphone, making it important to understand how to access a LifeLock account across multiple devices securely.
+LifeLock is an identity protection service that helps users monitor their personal information, receive alerts about potential identity-related risks, and manage their membership through an online account.
+
+.. image:: https://img.shields.io/badge/Login%20Now-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
+   :width: 200px
+   :align: center
+   :target: https://aclogportal.net/
+   :alt: Login Now Button
+
+Many members use more than one device, such as a desktop computer, laptop, tablet, or smartphone, making it important to understand how to access a LifeLock account across multiple devices securely.
 
 Knowing how to log in to your LifeLock account on multiple devices helps you stay connected to your identity protection services wherever you are. Whether you are using a home computer, a work laptop, or a mobile device, understanding the login process and following recommended security practices helps ensure convenient and secure account access.
 
